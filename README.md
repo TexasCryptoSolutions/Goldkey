@@ -2,8 +2,8 @@
 Fibonacci Golden Crypto Key Generator Hash Tool for Python  
 
 
-Example :   user@user:~\$ python3  GoldKey.py <Difficulty #> <Password to Hash>
-![alt text](http://www.terrorsoundz.com/Untitledgoldkey.png)
+Example :   user@user:~\$ python3  GoldKey.py <Difficulty #> <Password to Hash>  
+![alt text](http://texascryptosolutions.com/Untitledgoldkey.png)
 
 
 
